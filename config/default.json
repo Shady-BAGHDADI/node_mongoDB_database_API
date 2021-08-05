@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "hello",
+    "maxImageCount": 3,
+    "db": "mongodb://localhost/helloParis",
+    "port": "3000"
+}
